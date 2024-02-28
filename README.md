@@ -1,3 +1,4 @@
 # New-Repository
-This is my first Repositry
-Author_Dayaan_Shafique
+This is my first Repositry.
+<br>
+<b>Author_Dayaan_Shafique</b>
